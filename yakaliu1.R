@@ -21,3 +21,6 @@ animint(scatter)
 #publish on github
 viz<-animint(scatter)
 animint2gist(viz)
+
+#http://bl.ocks.org/yakaliu/raw/28e30c0377b64e6c7dac4e39e43071bb/
+
