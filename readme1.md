@@ -1,1 +1,0 @@
-The first step is to obtain the data set that comes with animint, the second step is to filter the data set to form a new data set, the third step is to visualize the new data set on the web page, and the fourth step is to upload github online. Here I learned about how to use animint, thank you very much.
